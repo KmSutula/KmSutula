@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KmSutula
-- 👀 I’m interested in making websites and learning things.
-- 🌱 I’m currently learning everything I can about CSS, HTML, JavaScript and Java.
+- 👀 I’m interested in learning to love React and making my JavaScript algorithms more efficient.
+- 🌱 I’m currently learning everything I can about React, JavaScript and Java.
 - 💞️ I’m looking to collaborate on your most obscure app idea.
 - 📫 How to reach me: kaleighsutula@gmail.com
 
